@@ -30,7 +30,7 @@
     cursor: pointer;
     text-decoration: none;
 }
-p {
+.paragrafo-superior {
     font-size: 38px;
     color: #0d0b52;
     position: relative;
