@@ -30,6 +30,13 @@
     cursor: pointer;
     text-decoration: none;
 }
+p {
+    font-size: 38px;
+    color: #0d0b52;
+    position: relative;
+    top: 100px;
+    margin-left: 35px;
+}
 
 h1 {
     font-size: 58px;
